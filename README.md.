@@ -1,0 +1,19 @@
+# 🎓 نظام إدارة النتائج - التكليف 3
+
+تطبيق ويب تفاعلي لإدارة نتائج الطلاب باستخدام HTML - Bootstrap - JavaScript
+
+## المميزات
+- إضافة طالب جديد مع التحقق من البيانات
+- حماية البيانات باستخدام Private Fields و Setter مع throw new Error
+- اصطياد الأخطاء باستخدام try / catch وعرضها في الشاشة
+- لجنة الرأفة باستخدام filter / map / reduce
+- عرض التقرير النهائي باستخدام Template Literals
+
+## طريقة التشغيل
+افتح ملف index.html في المتصفح
+
+## التقنيات المستخدمة
+- HTML5
+- Bootstrap 5
+- CSS3
+- JavaScript ES6 (Classes, Private Fields, Array Methods)
